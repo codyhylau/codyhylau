@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codyhylau
-- 👀 I’m interested in Aerospace and coding in Python/C++/MATLAB
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Aerospace and coding in Python/JAVA/MATLAB
+- 🌱 I’m currently learning SwiftUI and writing my own iOS app
 - 💞️ I’m looking to collaborate on fun coding projects
 - 📫 How to reach me: codyhylau@gmail.com
 
